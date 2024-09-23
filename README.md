@@ -20,8 +20,10 @@ Any user can review the source code of the program to make sure that our intenti
 In accordance with the terms of use of our products, you agree not to make changes to the provided versions of the products, as well as not to distribute our programs outside the platform.
 
 #2. Projects:
+
 ##2.1. Current projects.
     - Getting the most complete information using a phone number. The program is easy to use, but in some cases it can be very useful.
+    
 ##2.2. Future projects or projects under development.
     - VaaS - The Voice Active Assistance system is a voice control system, also known as a voice assistant.
     At the moment, most of the system's functions are under development. It is planned to release two versions of the system: with and without an interface.
