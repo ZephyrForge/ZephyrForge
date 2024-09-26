@@ -4,13 +4,13 @@ The Zephyr Forge project is aimed at distributing basic programs necessary for e
 By using the programs available through this GitHub account, you automatically accept the terms of use, which will be described below.
 
 Table of contents:
-1. User rights and restrictions.
-2. Projects:
-2.1. Current projects.
-2.2. Future projects or projects under development.
-3. Installation.
-4. Contribution to the development of the project.
-5. Contacts and links.
+1. [](#User-rights-and-restrictions.)
+2. [](#Projects:)
+2.1. [](##Current-projects.)
+2.2. [](#Future-projects-or-projects-under-development.)
+3. [](#Installation.)
+4. [](#Contribution-to-the-development-of-the-project.)
+5. [](#Contacts-and-links.)
 
 # 1. User rights and restrictions.
 
